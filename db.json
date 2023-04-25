@@ -8,6 +8,113 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "Candidates": [
+    {
+        "id": 66,
+        "profile_id": 15,
+        "company_id": 9,
+        "job_id": 18,
+        "job_title": "Software Tester",
+        "first_name": "pooja",
+        "last_name": "argade",
+        "email": "pooja@nimapinfotech.com",
+        "phone": "7738592352",
+        "headline": null,
+        "notice_period": null,
+        "resume": "http://127.0.0.1:8000/media/resumes/2022/08/resume_11.pdf",
+        "city": "mumbai",
+        "total_experience": null,
+        "relevant_experience": null,
+        "current_ctc": "300000",
+        "expected_ctc": "300000",
+        "skills": "candidate.SkillMaster.None",
+        "rating": null,
+        "salary": null,
+        "current_pipeline_stage": {
+            "id": 8,
+            "title": "Selected"
+        },
+        "status": {
+            "id": 1,
+            "name": "Applied",
+            "color": "#9575CD"
+        },
+        "employment_type": "Full-Time",
+        "added_by": "ABCDERF",
+        "created_at": "2023-04-06T19:19:37.508790+05:30",
+        "updated_at": "2023-04-18T10:33:37.168447+05:30",
+        "updated_by": "ABCDERF"
+    },
+    {
+        "id": 67,
+        "profile_id": 14,
+        "company_id": 9,
+        "job_id": 16,
+        "job_title": "Java devloper",
+        "first_name": "tejal",
+        "last_name": "jadhav",
+        "email": "tejaljadhav@nimapinfotech.com",
+        "phone": "9924766191",
+        "headline": null,
+        "notice_period": null,
+        "resume": null,
+        "city": "mumbai",
+        "total_experience": null,
+        "relevant_experience": null,
+        "current_ctc": "3233333",
+        "expected_ctc": "300000",
+        "skills": "candidate.SkillMaster.None",
+        "rating": null,
+        "salary": null,
+        "current_pipeline_stage": {
+            "id": 8,
+            "title": "Selected"
+        },
+        "status": {
+            "id": 1,
+            "name": "Applied",
+            "color": "#9575CD"
+        },
+        "employment_type": "Full-Time",
+        "added_by": "Abhishek Singh",
+        "created_at": "2023-04-06T19:20:08.581346+05:30",
+        "updated_at": "2023-04-18T10:33:27.941833+05:30",
+        "updated_by": "Abhishek Singh"
+    },
+    {
+        "id": 65,
+        "profile_id": 633,
+        "company_id": 9,
+        "job_id": 16,
+        "job_title": "Java devloper",
+        "first_name": "vijay",
+        "last_name": "dhere",
+        "email": "cddcp@gmail.com",
+        "phone": "8928889900",
+        "headline": null,
+        "notice_period": null,
+        "resume": "http://127.0.0.1:8000/media/resumes/2022/02/sample_Ze5LxWn.pdf",
+        "city": "pakistan",
+        "total_experience": null,
+        "relevant_experience": null,
+        "current_ctc": "",
+        "expected_ctc": "300000",
+        "skills": "candidate.SkillMaster.None",
+        "rating": null,
+        "salary": null,
+        "current_pipeline_stage": null,
+        "status": {
+            "id": 1,
+            "name": "Applied",
+            "color": "#9575CD"
+        },
+        "employment_type": "Full-Time",
+        "added_by": "ABCDERF",
+        "created_at": "2023-04-06T19:16:04.808908+05:30",
+        "updated_at": "2023-04-06T19:18:18.824804+05:30",
+        "updated_by": "ABCDERF"
+    }
+],
   "profile": {
     "name": "typicode"
   }
